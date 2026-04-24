@@ -1,24 +1,31 @@
 ### Oi! Sou o Arthur 😁
 
- <div>
+- 👨‍💻 Cursando Engenharia de Softaware
+- 🌱 Estudando C++ e SQL
+- ✉️ Me contate por email: arthuraraujo.sbomfim@gmail.com
+
+<br>
+
+<a href="www.linkedin.com/in/arthur-araujo-devv" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<br>
+
+ <div align="center">
    <a href="https://github.com/Arthur-ASiqueira">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthur-ASiqueira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthur-ASiqueira&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/c++-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql.svg">
+<br>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,cpp,mysql,nodejs,git,aws,figma,linux,windows" />
 </div>
  
 <br>
  
-### Redes Sociais! 
- 
-<div> 
- 
-<a href="www.linkedin.com/in/arthur-araujo-devv" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+
+<div align="center">
+ <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/2d/02/f1/2d02f1b440163529c321599a51cf4ef6.gif" width="300" height="200">
+ </div>
