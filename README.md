@@ -1,4 +1,4 @@
-## DEV in progresss 🚀
+### Oi! Sou o Arthur 😁
 
  <div>
    <a href="https://github.com/Arthur-ASiqueira">
